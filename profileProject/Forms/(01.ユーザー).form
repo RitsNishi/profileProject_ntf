@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <note class='form' xmlns='http://www.lotus.com/dxl' version='9.0' replicaid='49257BB40014330B'>
-<noteinfo noteid='15a' unid='9B0D99ABFFD4B78649257B78003B44FD' sequence='10'>
-<created><datetime>20130527T194722,85+09</datetime></created>
-<modified><datetime>20130726T124042,47+09</datetime></modified>
-<revised><datetime>20130723T215010,08+09</datetime></revised>
-<lastaccessed><datetime>20130726T124042,47+09</datetime></lastaccessed>
-<addedtofile><datetime>20130726T124042,47+09</datetime></addedtofile></noteinfo>
+<noteinfo noteid='28e' unid='13E0196DB24F8AF749257BDE004291A5' sequence='2'>
+<created><datetime>20130906T210706,61+09</datetime></created>
+<modified><datetime>20130906T211406,91+09</datetime></modified>
+<revised><datetime>20130906T211406,86+09</datetime></revised>
+<lastaccessed><datetime>20130906T211406,91+09</datetime></lastaccessed>
+<addedtofile><datetime>20130906T210706,65+09</datetime></addedtofile></noteinfo>
 <updatedby><name>CN=System Administrator/O=rskkgdev852</name></updatedby>
 <wassignedby><name>CN=System Administrator/O=rskkgdev852</name></wassignedby>
 <item name='$Comment' sign='true'><text/></item>
@@ -20,6 +20,30 @@ hhgBAIAAAAAAgAAAAQABAP///wAQAAAA
 </rawitemdata></item>
 <item name='$Flags'><text/></item>
 <item name='$DesignerVersion'><text>8.5.3</text></item>
+<item name='$Script' summary='false' sign='true'><text>'++LotusScript Development Environment:2:5:(Options):0:74
+Option Public
+
+'++LotusScript Development Environment:2:5:(Forward):0:1
+
+'++LotusScript Development Environment:2:5:(Declarations):0:2
+
+<break/></text></item>
+<item name='$$Script_O' sign='true'>
+<rawitemdata type='14'>
+AQAAAkxTT0IDABQIamEAAAQAAAADAAAAAAAEAIgAAAAAAAAAAAAAAAAAAAAkAP//GAA4AP//AABU
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAEABQBMb3R1cyBQcm9kdWN0AAAAVjAuMAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAwAAAAAAAAAEAAAAiAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA
+AAMAAABXMzJJJQMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAwCMAAAAAAD//wkAKgAxADEAQQBFAEEANgAxADgAAABsAAMATgBFAFcAAACAAAYARABFAEwA
+RQBUAEUAAAAAAP//CgBJAE4ASQBUAEkAQQBMAEkAWgBFAAAAAAD//wkAVABFAFIATQBJAE4AQQBU
+AEUAAAD//wYATwBCAEoARQBDAFQAAAAAAP//AAAAAAAABQAIAAAAAACmFX27BAAHAAAAAAAdAAAC
+AAAAEQAQAAAAAAD//wEAAwAEAAAABgAKAAAA
+</rawitemdata></item>
 <item name='$$ScriptName' summary='false' sign='true'><text>Person</text></item>
 <item name='UserID' placeholder='true'>
 <rawitemdata type='0'>
@@ -45,6 +69,7 @@ hhgBAIAAAAAAgAAAAQABAP///wAQAAAA
 <item name='Tag' placeholder='true'>
 <rawitemdata type='0'>
 </rawitemdata></item>
+<item name='User_Point' summary='false'><number>0</number></item>
 <item name='Count_Qs' summary='false'><number>0</number></item>
 <item name='Count_Ans' summary='false'><number>0</number></item>
 <item name='Count_Good' summary='false'><number>0</number></item>
@@ -58,12 +83,11 @@ hhgBAIAAAAAAgAAAAQABAP///wAQAAAA
 <item name='Favorite' placeholder='true'>
 <rawitemdata type='0'>
 </rawitemdata></item>
-<item name='User_Point' summary='false'><number>0</number></item>
-<item name='$Fields'><textlist><text>User_Point</text><text>Favorite</text><text
->History_Ans</text><text>History_Qs</text><text>Count_BestAns</text><text
->Count_Good</text><text>Count_Ans</text><text>Count_Qs</text><text>Tag</text><text
->Comment</text><text>FileName</text><text>Photo</text><text>Address</text><text
->NickName</text><text>UserNameKj</text><text>UserID</text></textlist></item>
+<item name='$Fields'><textlist><text>Favorite</text><text>History_Ans</text><text
+>History_Qs</text><text>Count_BestAns</text><text>Count_Good</text><text>Count_Ans</text><text
+>Count_Qs</text><text>User_Point</text><text>Tag</text><text>Comment</text><text
+>FileName</text><text>Photo</text><text>Address</text><text>NickName</text><text
+>UserNameKj</text><text>UserID</text></textlist></item>
 <item name='$Body' sign='true'>
 <rawitemdata type='1'>
 gQKC/1oAAQAAAAAAAAAAAKAFAACgBQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA

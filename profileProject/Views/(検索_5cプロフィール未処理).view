@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <note class='view' xmlns='http://www.lotus.com/dxl' version='9.0' replicaid='49257BB40014330B'>
-<noteinfo noteid='1c6' unid='D27997126813121649257BD200310CFB' sequence='3'>
+<noteinfo noteid='1c6' unid='D27997126813121649257BD200310CFB' sequence='7'>
 <created><datetime>20130825T175545,87+09</datetime></created>
-<modified><datetime>20130828T140059,06+09</datetime></modified>
-<revised><datetime>20130828T140059,05+09</datetime></revised>
-<lastaccessed><datetime>20130828T140059,06+09</datetime></lastaccessed>
-<addedtofile><datetime>20130828T140020,69+09</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Administrator/O=TIGGER</name><name>CN=System Administrator/O=rskkgdev852</name></updatedby>
+<modified><datetime>20130906T210430,22+09</datetime></modified>
+<revised><datetime>20130906T210430,21+09</datetime></revised>
+<lastaccessed><datetime>20130906T210430,22+09</datetime></lastaccessed>
+<addedtofile><datetime>20130906T210430,20+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=System Administrator/O=rskkgdev852</name></updatedby>
 <wassignedby><name>CN=System Administrator/O=rskkgdev852</name></wassignedby>
 <item name='$FormatNote' summary='true' sign='true'>
 <rawitemdata type='4'>
